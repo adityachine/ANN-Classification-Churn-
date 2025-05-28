@@ -1,8 +1,8 @@
-pandas 
-numpy 
 tensorboard
 matplotlib
 scikeras
-tensorflow>=2.14.0; python_version < '3.13'
-scikit-learn==1.6.1
-streamlit==1.35.0
+streamlit==1.32.2
+tensorflow==2.11.0
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
