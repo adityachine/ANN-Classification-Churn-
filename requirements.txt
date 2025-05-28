@@ -3,6 +3,6 @@ numpy
 tensorboard
 matplotlib
 scikeras
-tensorflow==2.14.0
+tensorflow>=2.14.0; python_version < '3.13'
 scikit-learn==1.6.1
 streamlit==1.35.0
