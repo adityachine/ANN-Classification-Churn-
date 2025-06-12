@@ -1,10 +1,4 @@
-Here is a **fully formatted, advanced, and visually appealing `README.md`** for your project:
-**"Deep Neural Networks for Regression Problems"**, using the same clean structure and markdown best practices (including sections, emojis, and formatting).
-
----
-
-````markdown
-# 🧠 Deep Neural Networks for Regression Problems
+## Deep Neural Networks for Regression Problems
 
 ## 📚 Table of Contents
 1. [📘 Introduction](#-introduction)  
@@ -84,7 +78,8 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Requirements
+## 📦 Requirements Deep Neural Networks for Regression Problems
+
 
 Make sure the following packages are installed (auto-installed via `requirements.txt`):
 
